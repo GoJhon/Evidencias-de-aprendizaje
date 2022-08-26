@@ -97,3 +97,17 @@ Hubo un desafío grupol que trabajo de crear una logica de condiciones y asginar
 **Diagrama de Flujo**
 
 ![Diagrama grupal](https://i.imgur.com/EHIoKra.jpg)
+
+## Desafío del hotel y noches
+
+Se creo un desafio en donde si habian más de 3 noches hospedadas se le hacia un descuento del 5%
+
+**Algoritmo**
+
+![Algoritmo hotel](https://i.imgur.com/RwzMBSL.jpg)
+
+**Diagrama de flujo**
+
+![Diagrama hotel](https://i.imgur.com/I4Mf5O2.jpg)
+
+**Visual Basic**
