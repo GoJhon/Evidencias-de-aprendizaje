@@ -126,3 +126,40 @@ Sub Hotel()
     End If
 End Sub
 ```
+
+## Sacar impuesto según los ingreso anuales de una empresa
+
+```
+Sub genradorImpuesto()
+    MsgBox ("Bienvenidos a la IDAN")
+    ingresos = Int(InputBox("Digite sus ingresos anuales"))
+    If ingresos >= 0 And ingresos <= 1000 Then
+        MsgBox ("No debe pagar impuestos")
+    Else
+        If ingresos >= 1001 And ingresos <= 10000 Then
+            impuesto = (ingresos * 5) / 100
+            MsgBox ("Debe pagar $" & impuesto & (" de impuesto"))
+        Else
+            If ingresos >= 10001 And ingresos <= 100000 Then
+                impuesto = (ingresos * 10) / 100
+                MsgBox ("Debe pagar $" & impuesto & (" de impuesto"))
+            Else
+                If ingresos >= 100001 And ingresos <= 1000000 Then
+                    impuesto = (ingresos * 15) / 100
+                    MsgBox ("Debe pagar $" & impuesto & (" de impuesto"))
+                Else
+                    If ingresos >= 1000001 And ingresos <= 10000000 Then
+                        impuesto = (ingresos * 20) / 100
+                        MsgBox ("Debe pagar $" & impuesto & (" de impuesto"))
+                    Else
+                        If ingresos >= 10000001 Then
+                            impuesto = (ingresos * 25) / 100
+                            MsgBox ("Debe pagar $" & impuesto & (" de impuesto"))
+                        End If
+                    End If
+                End If
+            End If
+        End If
+    End If
+End Sub
+```
