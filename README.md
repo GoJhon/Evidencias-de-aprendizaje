@@ -155,6 +155,8 @@ Sub genradorImpuesto()
                         If ingresos >= 10000001 Then
                             impuesto = (ingresos * 25) / 100
                             MsgBox ("Debe pagar $" & impuesto & (" de impuesto"))
+                        Else
+                            MsgBox ("Error el sacar valor")
                         End If
                     End If
                 End If
@@ -162,4 +164,5 @@ Sub genradorImpuesto()
         End If
     End If
 End Sub
+
 ```
