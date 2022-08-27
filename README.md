@@ -129,6 +129,8 @@ End Sub
 
 ## Sacar impuesto según los ingreso anuales de una empresa
 
+**Con condición if**
+
 ```
 Sub genradorImpuesto()
     MsgBox ("Bienvenidos a la IDAN")
@@ -165,4 +167,33 @@ Sub genradorImpuesto()
     End If
 End Sub
 
+```
+
+**Con condición dependiendo de**
+
+```
+Sub generadorImpuestos()
+    ingresos = Int(InputBox("Digite sus ingresos anuales"))
+    Select Case ingresos
+    Case Is < 0
+        MsgBox ("Error al sacar calculo")
+    Case 0 To 1000
+        MsgBox ("No debe pagar impuestos")
+    Case 1001 To 10000
+        impuesto = (ingresos * 5) / 100
+        MsgBox ("Debe pagar $" & impuesto & (" de impuesto"))
+    Case 10001 To 100000
+        impuesto = (ingresos * 10) / 100
+        MsgBox ("Debe pagar $" & impuesto & (" de impuesto"))
+    Case 100001 To 1000000
+        impuesto = (ingresos * 15) / 100
+        MsgBox ("Debe pagar $" & impuesto & (" de impuesto"))
+    Case 1000001 To 10000000
+        impuesto = (ingresos * 20) / 100
+        MsgBox ("Debe pagar $" & impuesto & (" de impuesto"))
+    Case Else
+        impuesto = (ingresos * 25) / 100
+        MsgBox ("Debe pagar $" & impuesto & (" de impuesto"))
+    End Select
+End Sub
 ```
