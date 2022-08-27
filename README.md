@@ -173,6 +173,7 @@ End Sub
 
 ```
 Sub generadorImpuestos()
+    MsgBox ("Bienvenido a IDAN")
     ingresos = Int(InputBox("Digite sus ingresos anuales"))
     Select Case ingresos
     Case Is < 0
