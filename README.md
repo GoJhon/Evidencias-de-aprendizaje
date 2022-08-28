@@ -205,4 +205,4 @@ End Sub
 
 **Diagrama de flujo de select case**
 
-![Diagrama select case](https://i.imgur.com/53Yf34y.jpg)
+![Diagrama select case](https://i.imgur.com/dXdHGMj.jpg)
