@@ -3,17 +3,6 @@ Anotaciones de actividades en ADSO Sena
 
 
 
-## Kanban, asignación de variables y contenación
-
-Aprendimos sobre kanban un metodo de orgazación de datos. Realizamos un desafio sobre crear un promedio entre 3 variables
-
-**Desafío**
-
-![Desafio promedio de 3 variables](https://i.imgur.com/k8tAGFn.jpg)
-
-**Kanban**
-
-![Kanban](https://i.imgur.com/P24lp7u.jpg)
 
 ## Github desktop y condicionales
 
@@ -183,3 +172,5 @@ End Sub
 [1.1 Hoja de vida](/trimestre1/hojaVida/README.md)
 
 [1.2 Introducción a Visual Basic](/trimestre1/introduccionVisualBasic/README.md)
+
+[1.3 Kanban, asignación de variables y concatenación](/trimestre1/kanbanAsignacionVarConcatenacion/README.md)
