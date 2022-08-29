@@ -8,34 +8,7 @@ Anotaciones de actividades en ADSO Sena
 
 
 
-## Desafío del hotel y noches
 
-Se creo un desafio en donde si habian más de 3 noches hospedadas se le hacia un descuento del 5%
-
-**Algoritmo**
-
-![Algoritmo hotel](https://i.imgur.com/RwzMBSL.jpg)
-
-**Diagrama de flujo**
-
-![Diagrama hotel](https://i.imgur.com/I4Mf5O2.jpg)
-
-**Visual Basic**
-
-```
-Sub Hotel()
-    nombreCliente = InputBox("nombre del cliente")
-    totalNoches = Int(InputBox("noches a hospedar"))
-    precioNoches = totalNoches * 100
-    If totalNoches <= 3 Then
-        MsgBox (nombreCliente & " se va hospedar " & totalNoches & " noche(s) y debe pagar: " & precioNoches)
-    Else
-        descontar = (precioNoches * 5) / 100
-        descuento = precioNoches - descontar
-        MsgBox (nombreCliente & " se va hospedar " & totalNoches & " y debe pagar " & descuento)
-    End If
-End Sub
-```
 
 ## Sacar impuesto según los ingreso anuales de una empresa
 
@@ -130,5 +103,8 @@ End Sub
 [1.4 Github desktop y condicionales](/trimestre1/githubDesktopCondicionales/README.md)
 
 [1.5 Desafío grupal](/trimestre1/desafioGrupal/README.md)
+
+[1.6 Desafío del hotel y noches](/trimestre1/hotelNoches/README.md)
+
 
 
