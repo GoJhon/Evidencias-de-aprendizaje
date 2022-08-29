@@ -209,6 +209,6 @@ End Sub
 
 ## Indice
 
-[1. Trimestre 1] (./trimestre1)
+[1. Trimestre 1](/trimestre1)
 
-[1.1 Hoja de vida] (./trimestre1/README.md)
+[1.1 Hoja de vida](/trimestre1/README.md)
