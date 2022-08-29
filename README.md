@@ -6,17 +6,7 @@ Anotaciones de actividades en ADSO Sena
 
 
 
-## Desafío grupal
 
-Hubo un desafío grupol que trabajo de crear una logica de condiciones y asginar variables.
-
-**Algotimo**
-
-![Algoritmo grupal](https://i.imgur.com/fkZOzxI.jpg)
-
-**Diagrama de Flujo**
-
-![Diagrama grupal](https://i.imgur.com/EHIoKra.jpg)
 
 ## Desafío del hotel y noches
 
@@ -138,3 +128,5 @@ End Sub
 [1.3 Kanban, asignación de variables y concatenación](/trimestre1/kanbanAsignacionVarConcatenacion/README.md)
 
 [1.4 Github desktop y condicionales](/trimestre1/githubDesktopCondicionales/README.md)
+
+[1.5 Desafío grupal](/trimestre1/desafioGrupal/README.md)
