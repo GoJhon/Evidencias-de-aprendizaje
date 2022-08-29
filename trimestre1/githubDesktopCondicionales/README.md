@@ -8,15 +8,15 @@ Aprendimos a manejar un software llamada "Github desktop" que sirve para clonar 
 
 ### Desafío descuentre del 5% y 10%
 
-### Algoritmo
+#### Algoritmo
 
 ![Algoritmo descuento](https://i.imgur.com/XWvmaEa.jpg)
 
-### Diagrama de flujo
+#### Diagrama de flujo
 
 ![Diagrama de flujo descuento](https://i.imgur.com/zP5sSl9.jpg)
 
-### Codigo en Visual Basic
+#### Codigo en Visual Basic
 
 ```
 Sub Descuentos()
