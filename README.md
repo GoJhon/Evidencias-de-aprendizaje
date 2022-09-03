@@ -24,3 +24,7 @@ Anotaciones de actividades en ADSO Sena
 [1.9 Registro de datos de carros](/trimestre1/registroCarros/README.md)
 
 [1.10 Ciclo For](/trimestre1/ciclos/README.md)
+
+[1.11 Desafío ciclo for](/trimestre1/desafioCicloFor/README.md)
+
+[1.12 Ciclos y funciones de manejo de cadenas para caracteres](/trimestre1/ciclosMidLes/README.md)
