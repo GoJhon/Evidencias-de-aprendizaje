@@ -1,8 +1,9 @@
-## Formulario
+<h2 align=center> Formulario </h2>
 
 El instructor nos dejo como desafió crear una interfaz tipo fomulario que fuera capaz de grabar los datos ingrasados en otra hoja donde se almacenaba los datos
 
-### Codigo en Visual Basic
+<h2 align=center> Codigo en Visual Basic </h2>
+
 
 ```
 Sub registrarDatos()
