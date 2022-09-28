@@ -24,7 +24,7 @@ class Person {
 
 <h3 align=center>Objeto</h3>
 
-Es una unidad de programacdión que tiene un estado y comprotamiento, sirve para crear una instancia de un molde o clase.
+Es una unidad de programación que tiene un estado y comprotamiento, sirve para crear una instancia de un molde o clase.
 
 <h3 align=center>Dart</h3>
 
