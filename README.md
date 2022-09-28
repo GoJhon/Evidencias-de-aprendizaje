@@ -28,3 +28,7 @@ Anotaciones de actividades en ADSO Sena
 [1.11 Desafío ciclo for](/trimestre1/desafioCicloFor/README.md)
 
 [1.12 Ciclos y funciones de manejo de cadenas para caracteres](/trimestre1/ciclosMidLes/README.md)
+
+[1.13 While, pull request y formulario en VBA](/trimestre1/ejerciciosVBA/README.md)
+
+[1.14 POO y Dart](/trimestre1/poo/README.md)
